@@ -1,8 +1,7 @@
 # IT342-G5-SleepSync
-
+ 
 TEAM MEMBER:
-MICHAEL ANTHONY J. YONG
+MACAPINLAC, CIDDY S.
 COURSE & YEAR: BSIT - 3
-
-I am MICHAEL ANTHONY J. YONG. A THIRD YEAR BSIT STUDENT OF CIT-UNIVERSIY. I am a probinsyano from the province of alegria. My father is a man and my mother is a woman. My sister is a girl and vincent is my friend. I love traveling foods and eating places. 
-
+ 
+My name is Ciddy S. Macapinlac from Bohol, home of the Chocolate Hills. I am 21 years of age and currently taking BSIT course in CIT. My hobbies are studying, coding, and working out. Thank you for making time to read this huhu.
